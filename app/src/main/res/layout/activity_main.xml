@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp">
+
+        <ImageView
+            android:id="@+id/img01"
+            android:src="@drawable/img01"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+        <ImageView
+            android:id="@+id/img02"
+            android:src="@drawable/img02"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+        <ImageView
+            android:id="@+id/img03"
+            android:src="@drawable/img03"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp">
+
+        <ImageView
+            android:id="@+id/img04"
+            android:src="@drawable/img04"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+        <ImageView
+            android:id="@+id/img05"
+            android:src="@drawable/img05"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+        <ImageView
+            android:id="@+id/img06"
+            android:src="@drawable/img06"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp">
+
+        <ImageView
+            android:id="@+id/img07"
+            android:src="@drawable/img07"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+        <ImageView
+            android:id="@+id/img08"
+            android:src="@drawable/img08"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
